@@ -23,7 +23,7 @@ user:
   name: 喵屋
   pic: /assets/img/KnowledgeCat.gif
   picAlt: "catbook"
-  job: a category-centric theme
+  job: yyq的个人博客
   aboutme: true
 
 exclude:
